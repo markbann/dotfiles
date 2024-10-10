@@ -6,4 +6,4 @@ git config --global alias.mm "merge main"
 git config --global alias.rbm "rebase main"
 git config --global alias.st status
 
-git config --global push.autosetupremote checkout
+git config --global push.autosetupremote true
